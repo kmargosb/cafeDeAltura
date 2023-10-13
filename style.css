@@ -1,0 +1,33 @@
+/* Section 1 */
+
+.title h2{
+    font-size: 50px;
+    margin: 30px 0;
+}
+.section1 a{
+    text-decoration: none;
+}
+.section1>p{
+    margin: 30px 0;
+}
+
+/* Section 2 */
+
+.section2{
+    display: flex;
+}
+.section2Text{
+    margin-right: 10px;
+}
+.section2Text h3{
+    margin-top: 60px;
+}
+.section2Text h1{
+    margin: 10px 0;
+}
+.section2 img{
+    width: 380px;
+}
+.butons{
+    margin-top: 25px;
+}
