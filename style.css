@@ -1,11 +1,13 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+
 /* Section 1 */
 
 .title h2{
     font-size: 50px;
     margin: 30px 0;
-}
-.section1 a{
-    text-decoration: none;
 }
 .section1>p{
     margin: 30px 0;
@@ -30,4 +32,26 @@
 }
 .butons{
     margin-top: 25px;
+}
+
+/* Section 4*/
+
+.section4{
+    display: flex;
+}
+.section4 ul{
+    list-style-type: none;
+    padding-left: 5px;
+}
+.section4 li{
+    margin: 0 0 0.4rem 0;
+}
+.sec4-1>p:nth-child(1){
+    margin: 0;
+}
+.sec4-1>p:nth-child(2){
+    margin: 0 0 1rem 0;
+}
+.sec4-1>p:nth-child(4){
+    margin: 2rem 0;
 }
